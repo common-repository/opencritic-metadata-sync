@@ -1,0 +1,25 @@
+.wp-opencritic-meta-group label{ 
+	font-weight: bold;
+}
+.wp-opencritic-meta-group  span.description{
+	display: block;
+}
+.select2-container{
+	width: 100% !important;
+}
+input#score_numeric{
+	width: 100%;
+}
+select#score_verdict {
+    width: 89%;
+}
+.wp-opencritic-meta-group .error {
+    color: red;
+    font-weight: normal !important;
+}
+#score_format{
+	width: 80% !important;
+}
+#opencritic_author {
+    width: 100% !important;
+}
